@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <!-- Background Circle (Subtle) -->
+  <circle cx="60" cy="60" r="58" fill="#018786" opacity="0.08"/>
+  
+  <!-- 2x2 Box -->
+  <rect x="30" y="30" width="60" height="60" rx="12" fill="none" stroke="#018786" stroke-width="2.5"/>
+  
+  <!-- Dividers -->
+  <line x1="60" y1="30" x2="60" y2="90" stroke="#018786" stroke-width="2" opacity="0.8"/>
+  <line x1="30" y1="60" x2="90" y2="60" stroke="#018786" stroke-width="2" opacity="0.8"/>
+  
+  <!-- ICONS — FIXED WITH HTML ENTITIES -->
+  <text x="45" y="52" font-family="system-ui, sans-serif" font-size="24" font-weight="600" fill="#018786" text-anchor="middle" dominant-baseline="central">+</text>
+  <text x="75" y="52" font-family="system-ui, sans-serif" font-size="28" font-weight="600" fill="#018786" text-anchor="middle" dominant-baseline="central">&#8722;</text> <!-- − -->
+  <text x="45" y="82" font-family="system-ui, sans-serif" font-size="24" font-weight="600" fill="#018786" text-anchor="middle" dominant-baseline="central">&#247;</text> <!-- ÷ -->
+  <text x="75" y="82" font-family="system-ui, sans-serif" font-size="28" font-weight="700" fill="#03dac6" text-anchor="middle" dominant-baseline="central">=</text>
+  
+  <!-- Text: "Calculator" -->
+  <text x="60" y="108" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#018786" text-anchor="middle">Calculator</text>
+</svg>

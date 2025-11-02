@@ -1,0 +1,16 @@
+{
+  "name": "Endroid Calculator",
+  "short_name": "Calculator",
+  "start_url": "/Calculator/",
+  "display": "standalone",
+  "background_color": "#E8EBE9",
+  "theme_color": "#018786",
+  "icons": [
+    {
+      "src": "/Calculator/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
